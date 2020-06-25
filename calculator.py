@@ -15,10 +15,3 @@ class Calculator:
         else:
             f = 0
         self.facUnidad = f
-
-
-    # def factorial(self, x):
-    #     f = 1
-    #     for i in range(1, x+1):
-    #         f = f * i
-    #     self.value = f
