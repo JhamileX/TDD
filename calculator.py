@@ -7,4 +7,6 @@ class Calculator:
         self.value = f
     
     def facUni(self, x):
-        pass
+        self.factorial(x)
+        uni = self.value % 10 
+        self.facUnidad = uni 
