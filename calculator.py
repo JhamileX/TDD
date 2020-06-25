@@ -8,5 +8,4 @@ class Calculator:
     
     def facUni(self, x):
         self.factorial(x)
-        uni = self.value % 10 
-        self.facUnidad = uni 
+        self.facUnidad = (self.value % 10 )
