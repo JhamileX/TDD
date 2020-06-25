@@ -1,0 +1,52 @@
+calcular el factorial de un numero y mostrar el digito de las unidades
+
+1: calcular el factorial de un numero
+
+2: mostrar el digito de las unidades
+
+ejemplo 
+
+3   =>  6
+2   =>  2
+0   =>  1
+4   =>  4
+5   =>  0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0   =>  1
+1   =>  1
+2   =>  2
+3   =>  6
+4   =>  24
+5   =>  120
+6   =>  720
+7   =>  5040
